@@ -1,0 +1,496 @@
+$date
+	Thu Mar  7 20:08:50 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module stoplight1_tb $end
+$var wire 1 ! SigY $end
+$var wire 1 " SigR $end
+$var wire 1 # SigG $end
+$var reg 1 $ CLK $end
+$var reg 1 % Ped $end
+$scope module x1 $end
+$var wire 1 & NS0 $end
+$var wire 1 ' NS1 $end
+$var wire 1 ( NS2 $end
+$var wire 1 ) NS3 $end
+$var wire 1 % Ped $end
+$var wire 1 # SigG $end
+$var wire 1 " SigR $end
+$var wire 1 ! SigY $end
+$var wire 1 $ clock $end
+$var wire 1 * n13 $end
+$var wire 1 + n14 $end
+$var wire 1 , n15 $end
+$var wire 1 - n16 $end
+$var wire 1 . n17 $end
+$var wire 1 / n18 $end
+$var wire 1 0 n19 $end
+$var wire 1 1 n20 $end
+$var wire 1 2 n21 $end
+$var wire 1 3 n22 $end
+$var wire 1 4 n23 $end
+$var wire 1 5 n24 $end
+$var wire 1 6 n25 $end
+$var wire 1 7 n26 $end
+$var wire 1 8 n27 $end
+$var wire 1 9 n28 $end
+$var wire 1 : n29 $end
+$var wire 1 ; n30 $end
+$var wire 1 < n31 $end
+$var wire 1 = n32 $end
+$var wire 1 > n33 $end
+$var wire 1 ? n34 $end
+$var wire 1 @ n35 $end
+$var wire 1 A n36 $end
+$var wire 1 B n38 $end
+$var wire 1 C n40 $end
+$var wire 1 D n41 $end
+$var wire 1 E n42 $end
+$var wire 1 F n43 $end
+$var wire 1 G n44 $end
+$var wire 1 H n45 $end
+$var wire 1 I n47 $end
+$var wire 1 J n48 $end
+$var wire 1 K n49 $end
+$var wire 1 L n52 $end
+$var wire 1 M n53 $end
+$var wire 1 N n54 $end
+$var wire 1 O n55 $end
+$var wire 1 P n56 $end
+$var wire 1 Q n57 $end
+$var wire 1 R n58 $end
+$var wire 1 S n59 $end
+$var wire 1 T n60 $end
+$var wire 1 U n61 $end
+$var wire 1 V n62 $end
+$var wire 1 W n64 $end
+$var wire 1 X n65 $end
+$var wire 1 Y n66 $end
+$var wire 1 Z n67 $end
+$var reg 1 [ S0 $end
+$var reg 1 \ S1 $end
+$var reg 1 ] S2 $end
+$var reg 1 ^ S3 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0^
+0]
+0\
+0[
+0Z
+0Y
+1X
+1W
+1V
+1U
+1T
+0S
+0R
+1Q
+0P
+0O
+1N
+1M
+0L
+1K
+1J
+0I
+0H
+0G
+1F
+1E
+0D
+0C
+0B
+1A
+1@
+1?
+1>
+0=
+1<
+1;
+1:
+19
+08
+17
+16
+15
+04
+13
+12
+11
+00
+0/
+1.
+0-
+0,
+0+
+1*
+0)
+0(
+0'
+1&
+0%
+0$
+0#
+1"
+0!
+$end
+#10000
+1'
+0&
+0V
+1Z
+0N
+1Y
+0E
+1G
+1D
+0F
+1C
+03
+1[
+1$
+#20000
+0$
+#30000
+1&
+0Z
+0X
+0Y
+0W
+0U
+1E
+0G
+0M
+0Q
+0D
+1F
+1L
+1P
+0C
+13
+1O
+0:
+0[
+1\
+0<
+0,
+0;
+1%
+1$
+#40000
+0$
+#50000
+1#
+0&
+0A
+1(
+0"
+1Z
+1X
+0@
+1H
+1Y
+1N
+1W
+0?
+1G
+1M
+09
+0F
+0L
+18
+03
+1/
+1,
+1[
+1$
+#60000
+0$
+#70000
+1&
+0Z
+0X
+0Y
+0N
+0W
+0T
+1?
+1Q
+0M
+1S
+19
+0P
+05
+1L
+1R
+08
+07
+0O
+14
+13
+0/
+0,
+06
+1+
+0[
+1]
+1$
+#80000
+0$
+#90000
+0&
+0'
+1Z
+1)
+0(
+1V
+1X
+1U
+1Y
+0K
+1@
+1N
+1W
+1T
+02
+15
+1M
+0S
+01
+0.
+04
+0L
+0R
+10
+1-
+03
+1/
+1,
+1[
+1$
+#100000
+0$
+#110000
+1&
+0Z
+0#
+0X
+1A
+0W
+12
+0J
+1.
+11
+1I
+1!
+1B
+0-
+00
+13
+0,
+1:
+0/
+16
+0+
+0*
+0[
+0\
+0]
+1^
+1$
+#120000
+0$
+#130000
+0&
+1Z
+0)
+1X
+1K
+1W
+1J
+0I
+1C
+03
+1,
+1[
+1$
+#140000
+0$
+#150000
+1&
+1"
+0Z
+0H
+0Y
+0G
+1F
+0!
+17
+0C
+13
+0B
+1*
+0[
+0^
+1<
+0,
+1;
+0%
+1$
+#160000
+0$
+#170000
+1'
+0&
+0V
+1Z
+0N
+1Y
+0E
+1G
+1D
+0F
+1C
+03
+1,
+1[
+0<
+0;
+1%
+1$
+#180000
+0$
+#190000
+1&
+0Z
+0X
+0Y
+0W
+0U
+1E
+0G
+0M
+0Q
+0D
+1F
+1L
+1P
+0C
+13
+0,
+1O
+0:
+0[
+1\
+1$
+#200000
+0$
+#210000
+1#
+0&
+0'
+0A
+1(
+0"
+1Z
+1V
+1X
+0@
+1H
+1Y
+1N
+1W
+0?
+1G
+1M
+09
+0F
+0L
+18
+03
+1/
+1[
+1U
+1Q
+1;
+0P
+0%
+1$
+#220000
+0$
+#230000
+1&
+0Z
+0Y
+0T
+1?
+1S
+19
+05
+1R
+08
+07
+14
+13
+0O
+1:
+0/
+06
+1+
+0[
+0\
+1]
+1'
+0V
+0U
+1Q
+0,
+0;
+0P
+1%
+1$
+#240000
+0$
+#250000
+0&
+0'
+1Z
+1)
+0(
+1V
+1U
+1Y
+0K
+1@
+1T
+1X
+02
+15
+0S
+0.
+1N
+1W
+01
+04
+0R
+1-
+1M
+10
+03
+1,
+0L
+0:
+1/
+1[
+1\
+1$
